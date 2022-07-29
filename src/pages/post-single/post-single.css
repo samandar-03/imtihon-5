@@ -1,0 +1,25 @@
+.btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.btns button{
+    border: none;
+    border-radius: 50%;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.btns p{
+    margin-bottom: 50px;
+}
+.day{
+    display: flex;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.team{
+    border-left: 2px solid #ccc;
+    margin-left: 10px;
+    padding-left: 10px;
+}

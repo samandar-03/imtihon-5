@@ -1,0 +1,46 @@
+.post-text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #777;
+}
+.title{
+    cursor: pointer;
+    display: inline-block;
+    font-size: 28px;
+    font-weight: 400;
+    margin: 20px 0 28px 0;
+}
+.tims{
+    color: #777;
+    margin-bottom: 17px;
+    font-size: 18px;
+}
+.Link{
+    cursor: auto;
+    border-bottom: 1px solid #ccc;
+    display: block;
+    margin-bottom: 45px;
+
+}
+.posts{
+    padding-bottom: 350px;
+}
+.btn{
+    display: flex;
+    align-items: center;
+}
+.btn button{
+    border:  transparent;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.row{
+    margin-top: 20px;
+}
+.col{
+    font-size: 25px;
+}
+.icon_link{
+    color: #474747;
+}
